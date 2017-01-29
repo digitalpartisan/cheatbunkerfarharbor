@@ -1,1 +1,17 @@
-This mod provides the Far Harbor package for The Cheat Bunker and connects The Bunker to the Far Harbor world space.  As such, it requires both the Far Harbor DLC and The Cheat Bunker to be installed.  This package brings the armor and weapons from Far Harbor into The Cheat Bunker and comes with a Quest Autocompletion option which allows the player to skip the memory puzzles during the quest “Best Left Forgotten.”
+Augments The Cheat Bunker with content from the Far Harbor DLC.
+
+Quest Auto-completion options:
+Skip the memory puzzles during “Best Left Forgotten” http://fallout.wikia.com/wiki/Best_Left_Forgotten
+Importers:
+None
+Exterior space connection(s):
+The Island (where Far Harbor is located)
+
+Items modified for playability and/or adding a legendary effect attach point:
+Lobster Trap Helmet
+Trapper's Helm
+Using a mod which edits these items will conflict with The Cheat Bunker: Far Harbor, but not in a way that prevents using both.
+
+-
+
+The Cheat Bunker: Far Harbor has been cleaned with FO4Edit.
