@@ -1,3 +1,6 @@
+v1.2.0
+Introduced AWKCR dependency
+
 v1.1.0
 Added collectible ingredients to Workshop Resources terminal
 
