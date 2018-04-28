@@ -1,5 +1,5 @@
 v1.3.0
-Matched Cheat Bunker v1.8.0 Auto-completion logic upgrades
+Integrated Chronicle v1.0.0 in accordance with The Cheat Bunker v1.8.0 upgrade
 
 v1.2.0
 Introduced AWKCR dependency
