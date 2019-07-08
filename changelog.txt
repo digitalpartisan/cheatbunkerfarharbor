@@ -1,8 +1,6 @@
 v1.5.0
-Placed internal Bunker modifications and worldspace modifications into their own layers to match changes in The Cheat Bunker v1.10.0
-Prevented NPCs from using the door in and out of the Bunker
+Upgraded and tested to match The Cheat Bunker v1.10.0 improvements
 Implemented Far Harbor settlement radiant quest auto-completion options
-Recompiled autocompletion scripts to match changes in The Cheat Bunker v1.10.0
 
 v1.4.0
 Integrated Chronicle v1.1.0 in accordance with The Cheat Bunker v1.9.0 upgrade
