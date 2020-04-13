@@ -2,6 +2,6 @@ Scriptname CheatBunkerDLC03:Autocompletion:RepairFogCondensers extends CheatBunk
 
 RefCollectionAlias Property Condensers Auto Const Mandatory
 
-Function respond()
+Function respond(Quest targetQuest)
 	(Condensers as DLC03:FogCondenserCollectionAliasScript).RepairAllCondensers()
 EndFunction

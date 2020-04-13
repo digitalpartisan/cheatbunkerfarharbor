@@ -6,7 +6,7 @@ Int Property ResolveAttackStage = 300 Auto Const
 Int Property AttackStage = 150 Auto Const
 Int Property CounterAttackStage = 400 Auto Const
 
-Function respond()
+Function respond(Quest targetQuest)
 	Int iStageToSet = AttackStage
 	if (DLC03WorkshopRadiantOwned03.IsStageDone(ResolveAttackStage))
 		iStageToSet = CounterAttackStage
