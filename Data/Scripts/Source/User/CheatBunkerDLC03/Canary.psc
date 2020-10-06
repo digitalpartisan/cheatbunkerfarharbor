@@ -1,0 +1,1 @@
+Scriptname CheatBunkerDLC03:Canary extends Chronicle:Package:CustomBehavior:CanaryAPI
