@@ -1,3 +1,6 @@
+v1.6.0
+Implemented pre-made builds requiring perks added by Far Harbor
+
 v1.5.0
 Upgraded and tested to match The Cheat Bunker v1.10.0 improvements
 Implemented Far Harbor settlement radiant quest auto-completion options
